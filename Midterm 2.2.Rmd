@@ -265,5 +265,3 @@ P-value : probability of observing any value equal or larger than t. (Area of ta
 Residual standard error : We are not capable of perfectly predicting our response variable. Average amount that the response will deviate from the true regression line. 
 
 Chi-square test : Need to estimate how closely an observed distirbution matches an expected distribution, and whether two random variables are independent
-
-Type I error: 
